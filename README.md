@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Manvi
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Full-Stack+Developer;AI+%26+Backend+Enthusiast;Building+Real-World+Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Full-Stack+Developer;AI+%26+Backend+Enthusiast;Building+Real-World+Software" />
 </p>
 
 <p align="center">
