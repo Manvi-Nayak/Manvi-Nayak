@@ -104,10 +104,6 @@ An interactive learning platform combining **AI conversations, personalized less
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manvi-Nayak&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvi-Nayak&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Manvi-Nayak&hide_border=true&theme=transparent" />
 </p>
 
