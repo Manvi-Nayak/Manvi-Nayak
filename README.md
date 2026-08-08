@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Manvi-Nayak">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/manvi-nayak-79b88928b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -37,7 +34,7 @@ I enjoy working across the stack — from creating responsive interfaces to desi
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,html,css" />
 </p>
 
 ### 🌐 Development
@@ -49,7 +46,7 @@ I enjoy working across the stack — from creating responsive interfaces to desi
 ### 🗄️ Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
 <p>
@@ -120,9 +117,6 @@ An interactive learning platform combining **AI conversations, personalized less
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Manvi-Nayak">
-    <img src="https://skillicons.dev/icons?i=github" width="42"/>
-  </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/manvi-nayak-79b88928b">
     <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
